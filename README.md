@@ -14,7 +14,10 @@ First project in Javascript and JQuery.
 
 # Goals for this project :
 
-- Add CSS
+- Add CSS...
+- ...and animation/sounds overall.
 - Add rounds.
+- Add a visible reset button.
 - Incorporate it in my other project, "pictionnary-wsf".
+
 
