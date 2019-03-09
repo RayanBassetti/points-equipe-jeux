@@ -39,11 +39,11 @@ $('#button_equipe_2').click(function(){
 
 
 function winEquipe1() {
-    $(finalMessage).text('tuez moi');
+    $(finalMessage).text('VICTOIRE POUR L\'EQUIPE 1 !');
 }
 
 function winEquipe2() {
-    $(finalMessage).text('tuez moi encore');
+    $(finalMessage).text('VICTOIRE POUR L\'EQUIPE 2 !');
 }
 
 
